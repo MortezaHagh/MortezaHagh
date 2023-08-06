@@ -1,6 +1,7 @@
 
-
-<!---
-MortezaHagh/MortezaHagh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# PathPlanning-Py
+- A*
+- PEA*: Partial Expansion A*
+- EPEA*: Enhanced Partial Expansion A*
+- LPA*: Life-Long Planning A*
+- D*Lite
