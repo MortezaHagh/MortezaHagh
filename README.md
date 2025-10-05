@@ -13,7 +13,7 @@
 
 ## ROS-Based Multi-Robot Path Planning Frameworks
 
-- [Artificial Potential Fields based (private)](https://github.com/MortezaHagh/mr_apf)
+- [Artificial Potential Fields based](https://github.com/MortezaHagh/mr_apf)
 - [Real-Time Life-long Multi-Robot Service-Graph based (private)](https://github.com/MortezaHagh/mr_guidance)
 
 
