@@ -40,11 +40,6 @@
 - [Mathematics for Machine Learning & Data Science (Coursera)](https://github.com/MortezaHagh/mathematics-for-machine-learning-and-data-science-coursera)
 
 
-## Simulation (ROS2)
-
-- [ROS2 Gazebo Simulation](https://github.com/MortezaHagh/ros2-gz-sim)
-
-
 ## 📦 Other
 
 - [Wonder](https://github.com/MortezaHagh/wonder)
