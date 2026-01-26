@@ -40,6 +40,6 @@
 - [Mathematics for Machine Learning & Data Science (Coursera)](https://github.com/MortezaHagh/mathematics-for-machine-learning-and-data-science-coursera)
 
 
-## 📦 Other
+## 📦 TSP Solvers
 
-- [Wonder](https://github.com/MortezaHagh/wonder)
+- [TSP](https://github.com/MortezaHagh/tsp_solvers)
