@@ -33,8 +33,8 @@
 - [Particle Filter Localization (ROS)](https://github.com/MortezaHagh/spf-localization-ros)
 
 
-## 📚 Machine Learning Courses
-
+## 📚 Machine Learning Courses and Books
+- [Reinforcement Learning: An Introduction (Sutton & Barto )](https://github.com/MortezaHagh/rl-sutton-lab)
 - [Machine Learning Specialization (Coursera)](https://github.com/MortezaHagh/machine-learning-specialization-coursera)
 - [Data Analysis with Python (Quera)](https://github.com/MortezaHagh/data-analysis-with-python-quera)
 - [Mathematics for Machine Learning & Data Science (Coursera)](https://github.com/MortezaHagh/mathematics-for-machine-learning-and-data-science-coursera)
@@ -42,4 +42,4 @@
 
 ## 📦 TSP Solvers
 
-- [TSP](https://github.com/MortezaHagh/tsp_solvers)
+- [MILP and Metaheuristic Based Solutiuons for TSP](https://github.com/MortezaHagh/tsp_solvers)
